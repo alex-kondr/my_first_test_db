@@ -1,0 +1,7 @@
+CREATE TABLE Students (
+    id INTEGER PRIMARY KEY,
+    first_name STRING NOT NULL,
+    last_name STRING NOT NULL,
+    age INTEGER,
+    grade INTEGER
+);

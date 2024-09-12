@@ -1,0 +1,1 @@
+INSERT INTO Studens (first_name, last_name, age, grade) VALUES ("Alex", "Kondr", 17, 99);
